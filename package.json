@@ -11,12 +11,12 @@
   "license": "ISC",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/adisupport/Blog_v1.git"
+    "url": "git+https://github.com/adisupport/Blog_v2.git"
   },
   "bugs": {
-    "url": "https://github.com/adisupport/Blog_v1/issues"
+    "url": "https://github.com/adisupport/Blog_v2/issues"
   },
-  "homepage": "https://github.com/adisupport/Blog_v1#readme",
+  "homepage": "https://github.com/adisupport/Blog_v2#readme",
   "dependencies": {
     "dotenv": "^16.3.1",
     "ejs": "^3.1.9",
